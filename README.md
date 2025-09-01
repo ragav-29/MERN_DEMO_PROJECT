@@ -200,13 +200,6 @@ DevOps Engineers, feel free to improve CI/CD, add monitoring, or optimize Docker
 5. Open a Pull Request
 
 ---
-
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📞 Contact
 
 For issues or collaboration inquiries:
