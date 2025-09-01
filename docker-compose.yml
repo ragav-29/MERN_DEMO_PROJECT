@@ -1,22 +1,35 @@
-# Two services: backend API on 5000, frontend (nginx) on 80
+version: '3.8'
+
 services:
+  mongo:
+    image: mongo
+    volumes:
+      - mongo-data:/data/db
+
   backend:
     build: ./server
     container_name: backend
     restart: always
     env_file:
-      - ./server/.env        
+      - ./server/.env
     ports:
       - "5000:5000"
+    depends_on:
+      - mongo
 
   frontend:
     build:
       context: ./client
       args:
-        VITE_API_URL: http://:5000/api
+        VITE_API_URL: http://54.209.9.232:5000/api
     container_name: frontend
     restart: always
     ports:
-      - "5173:5173"
+      - "3000:5173"
     depends_on:
       - backend
+    environment:
+      - VITE_API_URL=http://54.209.9.232:5000/api
+
+volumes:
+  mongo-data:
