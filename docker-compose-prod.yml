@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    restart: always
+    volumes:
+      - mongo-data:/data/db
+
+  backend:
+    build: ./server
+    container_name: backend
+    restart: always
+    env_file:
+      - ./server/.env
+    environment:
+      - VIRTUAL_HOST=api.ragav.space
+      - LETSENCRYPT_HOST=api.ragav.space
+      - LETSENCRYPT_EMAIL=devilassassin29@gmail.com
+    expose:
+      - "5000"
+    depends_on:
+      - mongo
+
+  frontend:
+    build:
+      context: ./client
+      args:
+        VITE_API_URL: https://api.ragav.space/api
+    container_name: frontend
+    restart: always
+    environment:
+      - VITE_API_URL=https://api.ragav.space/api
+      - VIRTUAL_HOST=ragav.space
+      - LETSENCRYPT_HOST=ragav.space
+      - LETSENCRYPT_EMAIL=devilassassin29@gmail.com
+      - HTTPS_METHOD=redirect
+    expose:
+      - "5173"
+    depends_on:
+      - backend
+
+  nginx-proxy:
+    image: nginxproxy/nginx-proxy:alpine
+    container_name: nginx-proxy
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - nginx-certs:/etc/nginx/certs
+      - nginx-vhost:/etc/nginx/vhost.d
+      - nginx-html:/usr/share/nginx/html
+      - nginx-conf:/etc/nginx/conf.d
+
+  letsencrypt:
+    image: nginxproxy/acme-companion
+    container_name: nginx-proxy-letsencrypt
+    restart: always
+    environment:
+      - DEFAULT_EMAIL=test@example.com
+      - NGINX_PROXY_CONTAINER=nginx-proxy
+    depends_on:
+      - nginx-proxy
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - nginx-certs:/etc/nginx/certs
+      - nginx-vhost:/etc/nginx/vhost.d
+      - nginx-html:/usr/share/nginx/html
+      - nginx-conf:/etc/nginx/conf.d
+
+volumes:
+  mongo-data:
+  nginx-certs:
+  nginx-vhost:
+  nginx-html:
+  nginx-conf:
