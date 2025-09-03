@@ -131,6 +131,8 @@ To trigger:
 ```bash
 git push origin main
 ```
+## 🖼️ Screenshot Preview
+<img width="1366" height="693" alt="image" src="https://github.com/user-attachments/assets/061ea6a8-b21f-4881-89e6-a23cc7ca5de8" />
 
 ---
 
