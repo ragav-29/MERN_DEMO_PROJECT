@@ -65,7 +65,7 @@ JWT_SECRET=your_jwt_secret
 ```
 Example `.env` for client:
 ```env
-http://localhost:5000/api
+VITE_API_URL=http://localhost:5000/api
 ```
 
 3. **Run with Docker Compose**
