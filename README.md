@@ -48,8 +48,8 @@ This repository contains a full-stack MERN (MongoDB, Express, React, Node.js) ap
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/mern-devops-project.git
-cd mern-devops-project
+git clone https://github.com/ragav-29/MERN_DEMO_PROJECT.git
+cd MERN_DEMO_PROJECT
 ````
 
 2. **Set up Environment Variables**
