@@ -63,6 +63,10 @@ PORT=5000
 MONGO_URI=mongodb://mongo:27017/mydatabase
 JWT_SECRET=your_jwt_secret
 ```
+Example `.env` for client:
+```env
+http://localhost:5000/api
+```
 
 3. **Run with Docker Compose**
 
