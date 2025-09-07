@@ -1,0 +1,50 @@
+trigger: none
+
+variables:
+  PROD_DEPLOY_PATH: '/var/www/mern'
+
+stages:
+  - stage: BuildAndDeploy
+    displayName: 'Build and Deploy with Docker Compose on VM'
+    jobs:
+      - deployment: BuildDeployJob
+        displayName: 'Build & Deploy from Linux VM'
+        environment:
+          name: 'linux-prod'
+          resourceName: ''
+          resourceType: VirtualMachine
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - checkout: self
+                  clean: true
+
+                - script: |
+                    echo "Syncing repo to $(PROD_DEPLOY_PATH)..."
+                    rm -rf $(PROD_DEPLOY_PATH)
+                    mkdir -p $(PROD_DEPLOY_PATH)
+                    cp -r $(Pipeline.Workspace)/s/* $(PROD_DEPLOY_PATH)/
+                  displayName: 'Copy repo to /var/www/mern'
+
+                - script: |
+                    echo "Cleaning old containers (force)..."
+                    cd $(PROD_DEPLOY_PATH)
+                    sudo docker compose -f docker-compose-prod.yml -p mern-project down -v || true
+                    # Extra cleanup to kill stray containers with same names
+                    sudo docker rm -f mongo backend frontend nginx-proxy nginx-proxy-letsencrypt || true
+                  displayName: "Force cleanup old containers"
+
+                - script: |
+                    cd $(PROD_DEPLOY_PATH)
+                    echo "Creating .env file for server..."
+                    cat > ./server/.env <<EOL
+                    MONGO_URI=mongodb://mongo:27017/dev_db
+                    EOL
+                  displayName: 'Generate server .env file'
+
+                - script: |
+                    cd $(PROD_DEPLOY_PATH)
+                    echo "Building and starting containers with production compose..."
+                    docker compose -f docker-compose-prod.yml -p mern-project up --build -d
+                  displayName: 'Deploy with Docker Compose (prod)'
