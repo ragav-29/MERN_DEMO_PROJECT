@@ -2,49 +2,63 @@ trigger: none
 
 variables:
   PROD_DEPLOY_PATH: '/var/www/mern'
+  keyVaultName: 'ragav29-key'
+  secretName: 'mern-server-env'
 
 stages:
   - stage: BuildAndDeploy
-    displayName: 'Build and Deploy with Docker Compose on VM'
+    displayName: 'Build and Deploy MERN Stack on Linux VM'
     jobs:
       - deployment: BuildDeployJob
-        displayName: 'Build & Deploy from Linux VM'
+        displayName: 'Build & Deploy on Linux VM'
         environment:
           name: 'linux-prod'
-          resourceName: ''
+          resourceName: 'ip-172-31-21-2'
           resourceType: VirtualMachine
         strategy:
           runOnce:
             deploy:
               steps:
+                # 1️⃣ Checkout repository
                 - checkout: self
                   clean: true
 
-                - script: |
-                    echo "Syncing repo to $(PROD_DEPLOY_PATH)..."
-                    rm -rf $(PROD_DEPLOY_PATH)
-                    mkdir -p $(PROD_DEPLOY_PATH)
-                    cp -r $(Pipeline.Workspace)/s/* $(PROD_DEPLOY_PATH)/
-                  displayName: 'Copy repo to /var/www/mern'
+                # 2️⃣ Fetch .env from Azure Key Vault
+                - task: AzureKeyVault@2
+                  inputs:
+                    azureSubscription: 'my-connection'
+                    KeyVaultName: '$(keyVaultName)'
+                    SecretsFilter: '$(secretName)'
+                  name: FetchSecrets
 
+                # 3️⃣ Sync repo to VM
                 - script: |
-                    echo "Cleaning old containers (force)..."
-                    cd $(PROD_DEPLOY_PATH)
-                    sudo docker compose -f docker-compose-prod.yml -p mern-project down -v || true
-                    # Extra cleanup to kill stray containers with same names
-                    sudo docker rm -f mongo backend frontend nginx-proxy nginx-proxy-letsencrypt || true
-                  displayName: "Force cleanup old containers"
+                    echo "📂 Syncing repo to $(PROD_DEPLOY_PATH)..."
+                    sudo mkdir -p $(PROD_DEPLOY_PATH)
+                    sudo rsync -av --delete $(Build.SourcesDirectory)/ $(PROD_DEPLOY_PATH)/
+                    sudo chown -R ubuntu:ubuntu $(PROD_DEPLOY_PATH)
+                  displayName: 'Copy repo to VM'
 
+                # 4️⃣ Write .env file AFTER repo copy
                 - script: |
-                    cd $(PROD_DEPLOY_PATH)
-                    echo "Creating .env file for server..."
-                    cat > ./server/.env <<EOL
-                    MONGO_URI=mongodb://mongo:27017/dev_db
-                    EOL
-                  displayName: 'Generate server .env file'
+                    echo "⚙️ Writing .env file from Key Vault..."
+                    sudo mkdir -p $(PROD_DEPLOY_PATH)/server
+                    echo "$(mern-server-env)" | tr ' ' '\n' | sudo tee $(PROD_DEPLOY_PATH)/server/.env > /dev/null
+                    sudo chown ubuntu:ubuntu $(PROD_DEPLOY_PATH)/server/.env
+                  displayName: 'Generate server .env from Key Vault'
 
+                # # 5️⃣ Ensure dependencies (mongo + nginx) are running
+                # - script: |
+                #     echo "🚀 Starting infra containers if not running..."
+                #     cd $(PROD_DEPLOY_PATH)
+                #     sudo docker compose -f docker-compose-prod.yml up -d mongo nginx-proxy letsencrypt
+                #   displayName: 'Start Infra Containers (mongo, nginx-proxy, letsencrypt)'
+
+
+                # 6️⃣ Rollout only backend + frontend (zero downtime)
                 - script: |
+                    echo "🔄 Rolling out app services (backend, frontend)..."
                     cd $(PROD_DEPLOY_PATH)
-                    echo "Building and starting containers with production compose..."
-                    docker compose -f docker-compose-prod.yml -p mern-project up --build -d
-                  displayName: 'Deploy with Docker Compose (prod)'
+                    sudo docker rollout -f docker-compose-prod.yml backend
+                    sudo docker rollout -f docker-compose-prod.yml frontend
+                  displayName: 'Rollout Application Containers'
