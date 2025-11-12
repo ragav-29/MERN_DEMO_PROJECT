@@ -1,0 +1,3698 @@
+[
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:58:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 20:59:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:00:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:01:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:02:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:03:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:04:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:05:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:06:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:16",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:07:46",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:17",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:08:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:09:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:10:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:11:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:12:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:23",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:13:53",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:14:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:15:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:16:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:17:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:18:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:19:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:20:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:21:54",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:24",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:22:55",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:25",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:23:55",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:25",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:24:38",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:09",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:25:39",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:09",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:26:39",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:27:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:28:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:29:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:30:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:31:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:32:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:33:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:34:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:35:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:10",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:36:40",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:11",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:37:41",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:11",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:38:41",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:11",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:39:41",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:11",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:40:41",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:11",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "watchdog-dashboard",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "watchdog",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "nginx-proxy-letsencrypt",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "nginx-proxy",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "frontend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "backend",
+    "status": "healthy",
+    "action": ""
+  },
+  {
+    "timestamp": "2025-11-12 21:41:41",
+    "service": "mongo",
+    "status": "healthy",
+    "action": ""
+  }
+]

@@ -1,13 +1,19 @@
-version: '3.8'
-
 services:
+  # ===============================
+  # Mongo Database
+  # ===============================
   mongo:
     image: mongo:latest
     container_name: mongo
     restart: always
     volumes:
       - mongo-data:/data/db
+    networks:
+      - mern-net
 
+  # ===============================
+  # Backend (Node / Express API)
+  # ===============================
   backend:
     build: ./server
     container_name: backend
@@ -22,12 +28,17 @@ services:
       - "5000"
     depends_on:
       - mongo
+    networks:
+      - mern-net
 
+  # ===============================
+  # Frontend (React App)
+  # ===============================
   frontend:
     build:
       context: ./client
       args:
-        VITE_API_URL: https://api.ragav.space/api
+        VITE_API_URL: "https://api.ragav.space/api"
     container_name: frontend
     restart: always
     environment:
@@ -40,7 +51,58 @@ services:
       - "5173"
     depends_on:
       - backend
+    networks:
+      - mern-net
 
+  # ===============================
+  # Watchdog (FastAPI backend)
+  # ===============================
+  watchdog:
+    build: ./watchdog
+    container_name: watchdog
+    restart: always
+    env_file:
+      - ./watchdog/.env
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./watchdog/uptime_history.json:/app/uptime_history.json
+    expose:
+      - "8001"
+    environment:
+      - VIRTUAL_HOST=watchdog.ragav.space
+      - LETSENCRYPT_HOST=watchdog.ragav.space
+      - LETSENCRYPT_EMAIL=devilassassin29@gmail.com
+      - VIRTUAL_PORT=8001
+    depends_on:
+      - mongo
+      - backend
+      - frontend
+    networks:
+      - mern-net
+
+  # ===============================
+  # Watchdog Dashboard (React + Nginx)
+  # ===============================
+  watchdog-dashboard:
+    build:
+      context: ./watchdog/frontend
+      args:
+        VITE_API_URL: ""
+    container_name: watchdog-dashboard
+    restart: always
+    environment:
+      - VITE_API_URL=
+      - VIRTUAL_HOST=dashboard.ragav.space
+      - LETSENCRYPT_HOST=dashboard.ragav.space
+      - LETSENCRYPT_EMAIL=devilassassin29@gmail.com
+    depends_on:
+      - watchdog
+    networks:
+      - mern-net
+
+  # ===============================
+  # Nginx Reverse Proxy (Dynamic SSL)
+  # ===============================
   nginx-proxy:
     image: nginxproxy/nginx-proxy:alpine
     container_name: nginx-proxy
@@ -54,13 +116,18 @@ services:
       - nginx-vhost:/etc/nginx/vhost.d
       - nginx-html:/usr/share/nginx/html
       - nginx-conf:/etc/nginx/conf.d
+    networks:
+      - mern-net
 
+  # ===============================
+  # Let's Encrypt SSL Companion
+  # ===============================
   letsencrypt:
     image: nginxproxy/acme-companion
     container_name: nginx-proxy-letsencrypt
     restart: always
     environment:
-      - DEFAULT_EMAIL=test@example.com
+      - DEFAULT_EMAIL=devilassassin29@gmail.com
       - NGINX_PROXY_CONTAINER=nginx-proxy
     depends_on:
       - nginx-proxy
@@ -70,10 +137,22 @@ services:
       - nginx-vhost:/etc/nginx/vhost.d
       - nginx-html:/usr/share/nginx/html
       - nginx-conf:/etc/nginx/conf.d
+    networks:
+      - mern-net
 
+# ===============================
+# Docker Volumes
+# ===============================
 volumes:
   mongo-data:
   nginx-certs:
   nginx-vhost:
   nginx-html:
   nginx-conf:
+
+# ===============================
+# Shared Network
+# ===============================
+networks:
+  mern-net:
+    driver: bridge
